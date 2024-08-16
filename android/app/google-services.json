@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640804953854",
+    "project_id": "birthday-7c396",
+    "storage_bucket": "birthday-7c396.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640804953854:android:ea59adb1272ec387d4cfaf",
+        "android_client_info": {
+          "package_name": "rishitasingh.co.i_am_poor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3APOjwRJsEViDqjFft_JeLzQNfHEBtRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
